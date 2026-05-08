@@ -142,3 +142,7 @@ data/
 
 # macOS
 .DS_Store
+
+.memsearch/
+
+.devcontainer
